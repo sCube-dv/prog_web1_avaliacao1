@@ -1,0 +1,39 @@
+* {
+    font-family: Verdana;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+a {
+    font-size: 30px;
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+}
+
+a:hover{
+    background-color: lightblue;
+}
+
+h2 {
+    color: blue;
+    border-bottom: 3px solid darkblue;
+}
+
+h4 {
+    text-align: center;
+    color: blue;
+}
+
+p {
+    text-align: justify;
+}
+
+h6 {
+    color: blue;
+    border-top: 2px solid darkblue;
+    text-align: center;
+}
